@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Company Database\Company Database\bin\Debug\Company Database.exe.config
+C:\Users\Administrator\source\repos\Company Database\Company Database\bin\Debug\Company Database.exe
+C:\Users\Administrator\source\repos\Company Database\Company Database\bin\Debug\Company Database.pdb
+C:\Users\Administrator\source\repos\Company Database\Company Database\bin\Debug\Company Database.xml
+C:\Users\Administrator\source\repos\Company Database\Company Database\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company_Database.Form1.resources
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company_Database.Resources.resources
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.exe
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.xml
+C:\Users\Administrator\source\repos\Company Database\Company Database\obj\Debug\Company Database.pdb
